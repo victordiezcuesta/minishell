@@ -1037,14 +1037,6 @@ Bonus / extended features
 ```
 
 ---
-
-## Author
-
-**sofernan**  
-42 Madrid
-
----
-
 <p align="center">
   <strong>Minishell</strong><br>
   Understanding the shell by building one.
